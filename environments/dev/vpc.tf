@@ -1,6 +1,6 @@
 module "vpc" {
   source = "../../modules/aws-vpc"
-  vpc-location                        = "Frankfurt"
+  vpc-location                        = "N. Virginia"
   namespace                           = "united"
   name                                = "vpc"
   stage                               = "dev"
