@@ -1,8 +1,7 @@
-# how to run
+#How To Run
 
 
 ```
-initialize terraform
 ./terraform.sh init
 ./terraform.sh plan
 ./terraform.sh apply
